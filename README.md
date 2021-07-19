@@ -15,7 +15,9 @@ $ go get github.com/thundernet8/wordpress-hash-go
 Import it in your code
 
 ```go
-import "github.com/thundernet8/wordpress-hash-go"
+import (
+    wphash "github.com/thundernet8/wordpress-hash-go"
+)
 ```
 
 ### Canonical example:
